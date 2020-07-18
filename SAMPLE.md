@@ -1,4 +1,4 @@
-# Read-Me-Generator 
+# SAMPLE 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Table of Contents 
 
@@ -11,16 +11,16 @@
 *  [Have Questions?](#have-questions)
 
 ## Description
-This project takes in user inut and generates a complete read me file
+This project does really great things and produces amazing results.
 
 ## Installation Instructions
     npm i
 
 ## Usage Instructions
-    follow the prompts on the terminal
+    In order to use this product you need to...
 
 ## Contributing
-    N/A
+    To contribute you need to...
 
 ## Test Instructions
     npm test
